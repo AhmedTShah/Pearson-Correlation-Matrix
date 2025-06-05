@@ -1,0 +1,3 @@
+D:\SEM 2\CS 112\cs112 project\gui\try1\try1\x64\Debug\try1.vcxproj.AssemblyReference.cache
+D:\SEM 2\CS 112\cs112 project\gui\try1\try1\x64\Debug\try1.Form1.resources
+D:\SEM 2\CS 112\cs112 project\gui\try1\try1\x64\Debug\try1.vcxproj.GenerateResource.cache
